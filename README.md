@@ -7,7 +7,7 @@ Welcome to my portfolio website! This is where I showcase my professional experi
 ### 1. **Edit Your Information**
 Open `index.html` and replace these placeholders with YOUR information:
 
-- **"Your Name"** - Your full name (appears in top navigation and footer)
+- **John Arnold** - Your full name (appears in top navigation and footer)
 - **"Welcome to My Portfolio"** - Your personal headline
 - **"I'm a professional..."** - Your tagline
 - **About Me section** - Write 2-3 sentences about yourself
